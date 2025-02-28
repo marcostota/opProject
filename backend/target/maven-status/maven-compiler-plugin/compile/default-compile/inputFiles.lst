@@ -1,0 +1,6 @@
+/home/marcos/Documents/githubmarcostota/backend/src/main/java/com/marcostota/study/ProjectOpApplication.java
+/home/marcos/Documents/githubmarcostota/backend/src/main/java/com/marcostota/study/controller/CharacteropController.java
+/home/marcos/Documents/githubmarcostota/backend/src/main/java/com/marcostota/study/dto/CharacterDTO.java
+/home/marcos/Documents/githubmarcostota/backend/src/main/java/com/marcostota/study/entity/Characterop.java
+/home/marcos/Documents/githubmarcostota/backend/src/main/java/com/marcostota/study/repository/CharacteropRepository.java
+/home/marcos/Documents/githubmarcostota/backend/src/main/java/com/marcostota/study/service/CharacteropService.java

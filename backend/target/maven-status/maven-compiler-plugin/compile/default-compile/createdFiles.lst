@@ -1,0 +1,6 @@
+com/marcostota/study/repository/CharacteropRepository.class
+com/marcostota/study/controller/CharacteropController.class
+com/marcostota/study/dto/CharacterDTO.class
+com/marcostota/study/entity/Characterop.class
+com/marcostota/study/ProjectOpApplication.class
+com/marcostota/study/service/CharacteropService.class
